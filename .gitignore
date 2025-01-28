@@ -1,7 +1,8 @@
 # 대용량 데이터 파일
-/4장/creditcard.csv
-/4장/UCI HAR Dataset/human_activity/train/X_train.txt
-/4장/train_santander.csv
+*.csv
+*.tsv
+*.xls
+*.txt
 
 # .ipynb_checkpoints 파일들도 제외
 /.ipynb_checkpoints
