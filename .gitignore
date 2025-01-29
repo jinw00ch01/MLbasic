@@ -3,6 +3,15 @@
 *.tsv
 *.xls
 *.txt
+*.xlsx
+*.xlsm
+*.xlsb
+*.xltx
+*.xltm
+*.xlt
+*.xlam
+*.xla
+opinosis+opinion+frasl+review
 
 # .ipynb_checkpoints 파일들도 제외
 /.ipynb_checkpoints
